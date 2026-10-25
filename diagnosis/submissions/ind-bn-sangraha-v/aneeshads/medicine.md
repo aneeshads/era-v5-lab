@@ -1,4 +1,4 @@
-# Medicine sheet: <pack_id> (<your GitHub handle>)
+# Medicine sheet: ind-bn-sangraha-v (aneeshads)
 
 Write one section for each disease that you found more than five times.
 
